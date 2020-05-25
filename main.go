@@ -8,7 +8,7 @@ import (
 	"log"
 	"os"
 
-	vision "cloud.google.com/go/vision/apiv1"
+	vision "nope"
 )
 
 func main() {
@@ -22,7 +22,7 @@ func main() {
 	defer client.Close()
 
 	// Sets the name of the image file to annotate.
-	filename := "../testdata/cat.jpg"
+	filename := "no"
 
 	file, err := os.Open(filename)
 	if err != nil {
