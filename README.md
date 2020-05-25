@@ -1,5 +1,5 @@
 # Scanning-Live-Subdomain ( Using Dig Command )
-Take a list of domains and filter out outdated subdomain then save it to target.txt
+Take a list of domains and filter out outdated subdomain then save into target.txt
 
 # Install
 git clone https://github.com/ManShum815/Automating-Scan-Live-Subdomain or just copy my script from live folder
