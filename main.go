@@ -1,5 +1,7 @@
 // Copyright © 2020 Man Shum
 
+package main
+
 while read target; do
 if dig "$target" > /dev/null; then
 # The subdomain is outdated, then do not
