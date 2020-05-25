@@ -4,4 +4,4 @@ if dig "$target" > /dev/null; then
 # put into a file called "target.txt".
 echo "$target" >> target.txt
 fi
-done < /root/Desktop/op.txt
+done < /path/of/(your-subdomain-list)
