@@ -1,4 +1,4 @@
-# Scanning-Live-Subdomain ( Using Dig Command )
+# Scanning-Live-Subdomain ( Using Host Command )
 Take a list of domains and filter out outdated subdomain then save output into target.txt
 
 # Install
