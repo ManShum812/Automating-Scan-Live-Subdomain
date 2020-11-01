@@ -2,7 +2,7 @@
 Take a list of domains and filter out outdated subdomain then save output into target.txt
 
 # Install
-git clone https://github.com/ManShum815/Automating-Scan-Live-Subdomain or just copy my script from live folder
+git clone https://github.com/ManShum815/Automating-Scan-Live-Subdomain
 
 # Setup
 cd Scanning-Live-Subdomain 
