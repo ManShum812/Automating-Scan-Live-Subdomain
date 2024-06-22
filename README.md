@@ -1,5 +1,5 @@
 # Scanning-Live-Subdomain ( Using Host Command )
-Take a list of domains and filter out outdated subdomain then save output into target.txt
+Take a list of domains, filter out outdated subdomains, and save the output into target.txt.
 
 # Install
 git clone https://github.com/ManShum815/Automating-Scan-Live-Subdomain
