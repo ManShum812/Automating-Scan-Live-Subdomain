@@ -1,2 +1,0 @@
-*.shell linguist-detectable=false
-*.go linguist-detectable=true
